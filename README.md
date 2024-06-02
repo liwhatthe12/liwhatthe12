@@ -150,7 +150,8 @@ ps-aux: 시스템 전체에서 실행 중인 모든 프로세스 출력하며 �
 >
 >-q, --queue: 프로세스에 시그널을 보내는 대신 시그널을 대기열에 추가
 >
-![kill](https://github.com/liwhatthe12/12/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-02%20162619.png?raw=true)
+< img src="https://github.com/liwhatthe12/12/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-02%20162619.png?raw=true" width="1920" height="1080" >
+
 
 + 장점: - 간단한 명령어로 빠르게 프로세스를 종료할 수 있습니다. - 다양한 옵션을 사용하여 프로세스 동작을 제어할 수 있습니다.
 
